@@ -36,5 +36,12 @@ out/
 ### VS Code ###
 .vscode/
 
-### Kotlin ###
-.kotlin
+### macOS ###
+.DS_Store
+
+### Application ###
+*.log
+*.pid
+application-local.yml
+application-prod.yml
+
